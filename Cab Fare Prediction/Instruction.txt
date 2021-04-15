@@ -1,0 +1,8 @@
+################ INSTRUCTION ###############
+
+R code can be run in R studio
+
+Python code is developed in Jupyter Notebook, so we can use Jupyter notebook
+
+
+###############   THANK YOU #################
